@@ -1,3 +1,3 @@
-module github.com/Arsfy/countrycontinent
+module github.com/ArsFy/countrycontinent
 
 go 1.17
